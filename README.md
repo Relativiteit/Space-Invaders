@@ -8,7 +8,7 @@ Make borders and such.
 A 2 player shooter where the objective is to shoot down eachother's spaceship.
 
 ### Lesson learned 
-How to map keys to actions, how to render objects, how to setup events.
+How to map keys to actions, how to render objects, how to setup events, how to register multiple keystrokes at the same time.
 
 ### What can be improved?
 The file is messy with allot of constants on the top of the file. 
