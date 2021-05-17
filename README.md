@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=8dfePlONtls&t=85s
     - LG Soundboard guy 
 Automate with spotify 
 
+#### Isometric rendering 2d (3d)
+
+https://www.youtube.com/watch?v=gE2gTCwLdFM
+
