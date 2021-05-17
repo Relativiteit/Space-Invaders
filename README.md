@@ -3,6 +3,7 @@ Pygame gaming basic game to learn how to work with pygame
 
 ## Roadmap learning pygame 
 These are the tutorials that will be done to gain a basic understanding of pygame.
+Make borders and such.
 
 ### Tech with Tim 
 A 2 player shooter where the objective is to shoot down eachother's spaceship.

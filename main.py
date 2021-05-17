@@ -6,7 +6,7 @@ pygame.mixer.init()
 # 2d library to make games but also a strong tool for prototyping 
 WIDTH, HEIGHT = 900, 500 
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Kei SAMA")
+pygame.display.set_caption("Game window")
 WHITE = (255, 200, 200)
 BLACK = (0, 0, 0)
 RED = (255, 0, 0)
