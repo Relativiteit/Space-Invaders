@@ -8,10 +8,10 @@ Hopefully staying true to KISS it will be possible to make a fun tool for me and
 ## 1. Space-Invaders - Done 14-05-2021
 A 2 player shooter where the objective is to shoot down eachother's spaceship.
 
-### Lesson learned 
+##### Lesson learned 
 How to map keys to actions, how to render objects, how to setup events, how to register multiple keystrokes at the same time.
 
-### What can be improved?
+##### What can be improved?
 The file is messy with allot of constants on the top of the file. 
 
 ## 2. Snake 
