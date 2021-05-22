@@ -12,7 +12,7 @@ A 2 player shooter where the objective is to shoot down eachother's spaceship.
 How to map keys to actions, how to render objects, how to setup events, how to register multiple keystrokes at the same time.
 
 ##### What can be improved?
-The file is messy with allot of constants on the top of the file. 
+The file is messy with allot of constants on the top of the file. Next small game use OOP to structure the functions in a class. 
 
 ## 2. Snake 
 A classic game where the objective is to get as much tokens in the screens as possible, growing your players body. While not touching your own body.
