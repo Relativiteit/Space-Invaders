@@ -19,6 +19,7 @@ A classic game where the objective is to get as much tokens in the screens as po
 
 https://www.youtube.com/watch?v=8dfePlONtls&t=85s
 
+
 # Dnd roll 20 alternative 
 #### 1. Range based system *grid - Final Fnatasy tactics - HEXAGON www.redblobgames.com/grids/hexagons.
 
@@ -41,4 +42,9 @@ Automate with spotify
 #### Isometric rendering 2d (3d)
 
 https://www.youtube.com/watch?v=gE2gTCwLdFM
+
+## Extra shenanigans
+Spotify ETL, just playing around with ETL (extration, transform, load).
+Grabbing most played songs from the past 60 days, storing them in sqlite database.
+Using DBeaver to query data base 
 
